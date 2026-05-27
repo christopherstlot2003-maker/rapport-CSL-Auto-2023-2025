@@ -1,4 +1,4 @@
-# Maritime Transport Dashboard
+# CSL Auto Dashboard
 
 ## 📌 Project Overview
 Dashboard created with Power BI to analyze maritime transport operations.
