@@ -21,4 +21,4 @@ Prix moyen voiture
   
 #Dashboard
 [Partie1](partie1.png)
-[Partie1](partie2.png)
+[Partie2](partie2.png)
